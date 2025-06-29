@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Teleria ttrpg
 ---
 
-Hello world!
-
-Write some words here!
+Welcome to the world of Teleria.
