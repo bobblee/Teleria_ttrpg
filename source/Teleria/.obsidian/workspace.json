@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Anhelt.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anhelt"
+              "title": "index"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Anhelt.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anhelt"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -252,6 +252,7 @@
   },
   "active": "cd41d9ea9d855c58",
   "lastOpenFiles": [
+    "World/Anhelt.md",
     "Communities.md",
     "index.md",
     "World Description.md",
@@ -261,7 +262,6 @@
     "World/Underrealm.md",
     "World/Peltas.md",
     "World/Miscellaneous.md",
-    "World/Anhelt.md",
     "World/Land of Rebirth.md",
     "World",
     "Factions",
